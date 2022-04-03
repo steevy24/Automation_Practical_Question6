@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="7412" started-at="2022-04-03T22:11:18Z" finished-at="2022-04-03T22:11:26Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7412" started-at="2022-04-03T22:11:18Z" finished-at="2022-04-03T22:11:26Z">
+      <class name="test.DashBoardPageTest">
+        <test-method status="PASS" signature="validUserShouldBeAbleToCreateCustomer()[pri:0, instance:test.DashBoardPageTest@3d24753a]" name="validUserShouldBeAbleToCreateCustomer" duration-ms="4226" started-at="2022-04-03T22:11:18Z" finished-at="2022-04-03T22:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeAbleToCreateCustomer -->
+      </class> <!-- test.DashBoardPageTest -->
+      <class name="test.OpenLinkTest">
+        <test-method status="PASS" signature="openLinkMethod()[pri:0, instance:test.OpenLinkTest@59a6e353]" name="openLinkMethod" duration-ms="3150" started-at="2022-04-03T22:11:23Z" finished-at="2022-04-03T22:11:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openLinkMethod -->
+      </class> <!-- test.OpenLinkTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
